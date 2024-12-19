@@ -118,6 +118,7 @@ void draw_rounded_button(int x, int y, int width, int height, const char *label)
     text_x_position += 12; // Adjust to move text slightly right
     text_y_position -= 1; // Adjust to move text slightly up
 
+    //int = idk;
     // Set background and text color
     lcd.SetBackColor(LCD_COLOR_BLUE);  // Background color for text
     lcd.SetTextColor(LCD_COLOR_WHITE); // Text color
