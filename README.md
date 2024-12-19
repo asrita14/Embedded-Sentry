@@ -3,10 +3,10 @@
 
 ### Group Members:
 
-- Brijendra Asthana (bka2022)
-- Charlie Wu (qw2246)
-- Chengyu Zheng (cz2686)
-- Chen Yang (cy2478)
+- Asrita Bobba
+- Imani Gomez 
+- Asmita Sonavane
+
 
 ### How to Use:
 
