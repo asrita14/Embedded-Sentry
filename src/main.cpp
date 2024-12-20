@@ -1,3 +1,10 @@
+/*
+* Fall 2024 ECE-GY 6483 Final Project
+* Group Members: Asrita Bobba
+*                Asmita Sonavane
+*                Imani Gomez
+*/
+
 #include "mbed.h"
 #include <vector>
 #include <array>
