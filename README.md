@@ -9,7 +9,7 @@
 
 ### How to Use:
 
-- Compile and upload code to the board.
+- Compile and upload code to the board
 - Click on the "Record" button to record a password gesture key.
 - Wait until "**Recording...**" appears at the bottom of the screen.
 - Perform the gesture to input the key within **5** seconds.
